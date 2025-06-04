@@ -1,1 +1,1 @@
-I blend business strategy, deep technical expertise and passion for innovation to design scalable data platforms, practice guidance and AI-driven solutions. I enjoy building systems that empower teams, mentoring adoptions and sharing what I learn.
+I blend business strategy, deep technical expertise and passion for innovation to design scalable data platforms, practice guidance and AI-driven solutions. I enjoy building systems that empower teams, and sharing my knowledge as a **Microsoft Fabric Super User** and by mentoring platform adoptions.
